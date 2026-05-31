@@ -21,7 +21,9 @@ progress bar, and resume-where-you-left-off.
 
 ### Demo Video
 
-https://github.com/user-attachments/assets/Record_Simulation_compressed.mp4
+<p align="center">
+  <video src="assets/documentations/Record%20Simulation_compressed.mp4" controls width="320"></video>
+</p>
 
 > Video recorded on a emulator Android device.
 
