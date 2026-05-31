@@ -25,6 +25,8 @@ progress bar, and resume-where-you-left-off.
   <video src="assets/documentations/Record%20Simulation_compressed.mp4" controls width="320"></video>
 </p>
 
+> *Note: If the video preview above does not load automatically, you can download or watch the full version directly via this [Simulation Video Link](https://github.com/Jeanjinmo/quran_app/raw/main/assets/documentations/Record%20Simulation_compressed.mp4).*
+
 > Video recorded on a emulator Android device.
 
 ---
