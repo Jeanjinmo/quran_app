@@ -22,12 +22,12 @@ progress bar, and resume-where-you-left-off.
 ### Demo Video
 
 <p align="center">
-  <video src="assets/documentations/Record%20Simulation_compressed.mp4" controls width="320"></video>
+  <video src="https://github.com/user-attachments/assets/d5591b01-f06c-4f5f-b471-a3170080fee3" controls width="320"></video>
 </p>
 
-> *Note: If the video preview above does not load automatically, you can download or watch the full version directly via this [Simulation Video Link](https://github.com/Jeanjinmo/quran_app/raw/main/assets/documentations/Record%20Simulation_compressed.mp4).*
+> *Note: If the video preview above does not load automatically, you can download or watch the full version directly via this [Simulation Video Link](https://github.com/user-attachments/assets/d5591b01-f06c-4f5f-b471-a3170080fee3).*
 
-> Video recorded on a emulator Android device.
+> Video recorded on an emulator Android device.
 
 ---
 
