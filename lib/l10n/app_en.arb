@@ -1,0 +1,150 @@
+{
+  "@@locale": "en",
+  "appTitle": "Quran Player",
+  "@appTitle": {
+    "description": "Application title shown on the home app bar"
+  },
+  "greeting": "Assalamualaikum",
+  "@greeting": {
+    "description": "Greeting label on the home screen"
+  },
+  "tabSurah": "Surah",
+  "@tabSurah": {
+    "description": "Home tab label for the surah list"
+  },
+  "tabJuz": "Juz",
+  "@tabJuz": {
+    "description": "Home tab label for the juz list"
+  },
+  "juzLabel": "Juz {number}",
+  "@juzLabel": {
+    "description": "Title for a juz row, e.g. 'Juz 1'",
+    "placeholders": {
+      "number": { "type": "int" }
+    }
+  },
+  "surahCount": "{count, plural, =1{1 surah} other{{count} surahs}}",
+  "@surahCount": {
+    "description": "Number of surahs within a juz",
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "searchSurahHint": "Search surah…",
+  "@searchSurahHint": {
+    "description": "Placeholder for the surah search field (search by title)"
+  },
+  "searchArtistHint": "Search reciter…",
+  "@searchArtistHint": {
+    "description": "Placeholder for the reciter search field (search by artist)"
+  },
+  "continueListening": "Continue listening",
+  "@continueListening": {
+    "description": "Title of the last-played card on home"
+  },
+  "randomPlay": "Random play",
+  "@randomPlay": {
+    "description": "Title of the random-play card on home"
+  },
+  "randomPlaySubtitle": "Play a surah at random",
+  "@randomPlaySubtitle": {
+    "description": "Subtitle of the random-play card on home"
+  },
+  "reciterLabel": "Reciter",
+  "@reciterLabel": {
+    "description": "Label preceding the currently selected reciter"
+  },
+  "chooseReciter": "Choose reciter",
+  "@chooseReciter": {
+    "description": "Title of the reciter selection bottom sheet"
+  },
+  "nowPlaying": "Now playing",
+  "@nowPlaying": {
+    "description": "Player screen header"
+  },
+  "play": "Play",
+  "@play": {
+    "description": "Play control label"
+  },
+  "pause": "Pause",
+  "@pause": {
+    "description": "Pause control label"
+  },
+  "resume": "Resume",
+  "@resume": {
+    "description": "Resume control label"
+  },
+  "versesCount": "{count, plural, =1{1 verse} other{{count} verses}}",
+  "@versesCount": {
+    "description": "Number of verses (ayahs) in a surah",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "revelationMeccan": "Meccan",
+  "@revelationMeccan": {
+    "description": "Revelation type label for Meccan surahs"
+  },
+  "revelationMedinan": "Medinan",
+  "@revelationMedinan": {
+    "description": "Revelation type label for Medinan surahs"
+  },
+  "retry": "Retry",
+  "@retry": {
+    "description": "Retry button on error states"
+  },
+  "errorNetwork": "No internet connection. Please check your network and try again.",
+  "@errorNetwork": {
+    "description": "Message shown when there is no connectivity"
+  },
+  "errorServer": "Something went wrong while loading data. Please try again.",
+  "@errorServer": {
+    "description": "Message shown on server/API errors"
+  },
+  "errorAudio": "Could not play this recitation. Try another reciter.",
+  "@errorAudio": {
+    "description": "Message shown when audio playback fails"
+  },
+  "emptySearch": "No results found.",
+  "@emptySearch": {
+    "description": "Shown when a search yields no matches"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings menu title"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language setting label"
+  },
+  "languageEnglish": "English",
+  "@languageEnglish": {
+    "description": "English language option"
+  },
+  "languageIndonesian": "Indonesian",
+  "@languageIndonesian": {
+    "description": "Indonesian language option"
+  },
+  "languageSystem": "System default",
+  "@languageSystem": {
+    "description": "Follow system language option"
+  },
+  "theme": "Theme",
+  "@theme": {
+    "description": "Theme setting label"
+  },
+  "themeLight": "Light",
+  "@themeLight": {
+    "description": "Light theme option"
+  },
+  "themeDark": "Dark",
+  "@themeDark": {
+    "description": "Dark theme option"
+  },
+  "themeSystem": "System default",
+  "@themeSystem": {
+    "description": "Follow system theme option"
+  }
+}

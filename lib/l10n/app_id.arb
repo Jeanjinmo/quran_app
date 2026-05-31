@@ -1,0 +1,54 @@
+{
+  "@@locale": "id",
+  "appTitle": "Quran Player",
+  "greeting": "Assalamualaikum",
+  "tabSurah": "Surah",
+  "tabJuz": "Juz",
+  "juzLabel": "Juz {number}",
+  "@juzLabel": {
+    "placeholders": {
+      "number": { "type": "int" }
+    }
+  },
+  "surahCount": "{count, plural, other{{count} surah}}",
+  "@surahCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "searchSurahHint": "Cari surah…",
+  "searchArtistHint": "Cari qari…",
+  "continueListening": "Lanjutkan mendengarkan",
+  "randomPlay": "Putar acak",
+  "randomPlaySubtitle": "Putar surah secara acak",
+  "reciterLabel": "Qari",
+  "chooseReciter": "Pilih qari",
+  "nowPlaying": "Sedang diputar",
+  "play": "Putar",
+  "pause": "Jeda",
+  "resume": "Lanjut",
+  "versesCount": "{count, plural, other{{count} ayat}}",
+  "@versesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "revelationMeccan": "Makkiyah",
+  "revelationMedinan": "Madaniyah",
+  "retry": "Coba lagi",
+  "errorNetwork": "Tidak ada koneksi internet. Periksa jaringan lalu coba lagi.",
+  "errorServer": "Terjadi kesalahan saat memuat data. Silakan coba lagi.",
+  "errorAudio": "Tidak dapat memutar bacaan ini. Coba qari lain.",
+  "emptySearch": "Tidak ada hasil ditemukan.",
+  "settings": "Pengaturan",
+  "language": "Bahasa",
+  "languageEnglish": "Inggris",
+  "languageIndonesian": "Indonesia",
+  "languageSystem": "Ikuti sistem",
+  "theme": "Tema",
+  "themeLight": "Terang",
+  "themeDark": "Gelap",
+  "themeSystem": "Ikuti sistem"
+}
